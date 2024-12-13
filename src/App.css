@@ -1,0 +1,9 @@
+main {
+  display: flex;
+  flex-direction: column;
+  margin: 15px;
+}
+
+h3 {
+  margin-top: 20px;
+}

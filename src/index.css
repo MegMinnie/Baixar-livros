@@ -7,4 +7,6 @@
 body {
   background-color: white;
   color: black;
+  height: 100svh;
+  width: 100%;
 }

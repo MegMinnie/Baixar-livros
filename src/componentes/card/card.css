@@ -16,9 +16,10 @@
 }
 .container {
   display: flex;
-  flex-direction: row;
+  flex-direction: column;
   gap: 10px;
   margin-top: 20px;
+  margin: 0% auto;
 }
 
 .descricao {
@@ -27,4 +28,13 @@
 
 .imagem {
   width: 100%;
+}
+
+@media (min-width: 1024px) {
+  .container {
+    display: flex;
+    flex-direction: row;
+    gap: 10px;
+    margin-top: 20px;
+  }
 }

@@ -7,7 +7,7 @@
     <img src="http://img.shields.io/static/v1?label=LICENSE-MIT&message=License&color=red&style=for-the-badge&logo=LICENSE-MIT"/> 
     <br>
     <br>
-<p>Este projeto consiste em uma página web, desenvolvida com react e CSS3, onde o usuário pode baixar livros sobre os temas como Linux, java e Python, focadosno seu desenvolvimento pessoal. Basta fazer donwload do livro desejado e começar a leitura.</p>
+<p>Este projeto consiste em uma página web, desenvolvida com react e CSS3, onde o usuário pode baixar livros sobre os temas como Linux, java e Python, focados no seu desenvolvimento pessoal. Basta fazer donwload do livro desejado e começar a leitura.</p>
 
   <p>Desenvolvido por <a target="_blank" rel="external" href="https://github.com/MegMinnie/"><strong>Mirele Oliveira da Silva</strong></a><p>
  </p></p>

@@ -20,7 +20,8 @@
 "_blank">clique aqui</a></p>
 
 ## Screenshots
-![tela ](assets/tela.png)
+![tela 1 ](tela1.png)
+![tela 2 ](tela2.png)
 
 </div>
 
